@@ -13,35 +13,35 @@ export default {
     title: 'Action',
     url: `/discover/movie?api_key=${API_KEY}&with_genres=28`
   },
-  fetchTrending: {
+  fetchComedyMovies: {
     title: 'Comedy',
     url: `/discover/movie?api_key=${API_KEY}&with_genres=35`
   },
-  fetchTrending: {
+  fetchHorrorMovies: {
     title: 'Horror',
     url: `/discover/movie?api_key=${API_KEY}&with_genres=27`
   },
-  fetchTrending: {
+  fetchRomanceMovies: {
     title: 'Romance',
     url: `/discover/movie?api_key=${API_KEY}&with_genres=10749`
   },
-  fetchTrending: {
+  fetchMystery: {
     title: 'Mystery',
     url: `/discover/movie?api_key=${API_KEY}&with_genres=9648`
   },
-  fetchTrending: {
+  fetchSciFi: {
     title: 'Sci-Fi',
     url: `/discover/movie?api_key=${API_KEY}&with_genres=878`
   },
-  fetchTrending: {
+  fetchWestern: {
     title: 'Western',
     url: `/discover/movie?api_key=${API_KEY}&with_genres=37`
   },
-  fetchTrending: {
+  fetchAnimation: {
     title: 'Animation',
     url: `/discover/movie?api_key=${API_KEY}&with_genres=16`
   },
-  fetchTrending: {
+  fetchTV: {
     title: 'TV Movie',
     url: `/discover/movie?api_key=${API_KEY}&with_genres=10770`
   },
