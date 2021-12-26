@@ -17,7 +17,6 @@ function Nav() {
         ))}
       </div>
       <div className="absolute top-0 right-0 bg-gradient-to-l from-blue-900 h-10 w-1/12">
-
       </div>
     </nav>
   )
